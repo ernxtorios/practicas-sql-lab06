@@ -12,8 +12,11 @@ Data Set Information: Occupancy rates (8:00 to 16:30) from 2016/10/04 to 2016/12
 Attribute Information:
 
 > __SystemCodeNumber:__ Car park ID
+
 > __Capacity:__ Car park capacity
+
 > __Occupancy:__ Car park occupancy rate
+
 > __LastUpdated:__ Date and Time of the measure
 
 Data Set Characteristics: Multivariate, Univariate, Sequential, Time-Series
