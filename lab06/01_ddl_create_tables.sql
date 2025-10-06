@@ -9,5 +9,5 @@ BEGIN
 		Capacity INT,
 		Occupancy INT,
 		LastUpdated DATETIME
-	);
+	)
 END;
