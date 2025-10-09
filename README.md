@@ -1,4 +1,4 @@
-# Prácticas SQL - Laboratorio 06
+# Prácticas SQL - Laboratorio 05
 
 ## Escenario
 Cargar datos de un archivo CSV a una tabla de base de datos __SQL Server__.
